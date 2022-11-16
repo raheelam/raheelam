@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **any react or flutter project**
 
-- 👨‍💻 All of my projects are available at [https://rahilailegbodu.netlify.app](rahilailegbodu.netlify.com)
+- 👨‍💻 All of my projects are available at [rahilailegbodu.netlify.com](https://rahilailegbodu.netlify.app)
 
 - 💬 Ask me about **react, next, node and flutter**
 
