@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raheela</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raheelam" alt="raheelam" /></a> </p>
-
 - 🔭 I’m currently working on **BluePrint(A social educational app where users can learn and share learnings in the most fun way.)**
 
 - 🌱 I’m currently learning **everything i can find about frontend development.**
@@ -26,5 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raheelam&show_icons=true&locale=en&layout=compact" alt="raheelam" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raheelam&show_icons=true&locale=en" alt="raheelam" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raheelam&" alt="raheelam" /></p>
