@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [rahilailegbodu.netlify.com](https://rahilailegbodu.netlify.app)
 
-- 💬 Ask me about **react, next, node and flutter**
+- 💬 Ask me about **react, typescript, node and flutter**
 
 - 📫 How to reach me **raheelamoha@gmail.com**
 
