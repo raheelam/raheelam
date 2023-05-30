@@ -1,15 +1,15 @@
 <base target="_blank">
 <h1 align="center"><img alt="Raheela's Welcome Message" src="https://readme-typing-svg.herokuapp.com?size=26&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi+there!+I'm+Raheela">
 </h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate frontend developer from Nigeria who lives in Istanbul, Turkey</h3>
 
-- 🔭 I’m currently working on **BluePrint(A social educational app where users can learn and share learnings in the most fun way.)**
+- 🔭 I’m currently working on **the frontend of an inventory management system**
 
 - 🌱 I’m currently learning **everything i can find about frontend development.**
 
 - 👯 I’m looking to collaborate on **any react or flutter project**
 
-- 👨‍💻 All of my projects are available at [rahilailegbodu.netlify.com](https://rahilailegbodu.netlify.app)
+- 👨‍💻 Some of my projects are available at [rahilailegbodu.netlify.com](https://rahilailegbodu.netlify.app)
 
 - 💬 Ask me about **react, typescript, node and flutter**
 
