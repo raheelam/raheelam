@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **react, typescript, node and flutter**
 
-- 📫 How to reach me **raheelamoha@gmail.com**
+- 📫 Let's <a href="https://linkedin.com/in/raheela-ilegbodu" target="blank">connect</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
