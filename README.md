@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">A passionate frontend developer from Nigeria who lives in Istanbul, Turkey</h3>
 
-- 🔭 I’m currently working on **the frontend of an inventory management system**
+- 🔭 I’m currently working on **an ecommerce application**
 
 - 🌱 I’m currently learning **everything i can find about frontend development.**
 
