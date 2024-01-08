@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **any react or flutter project**
 
-- 👨‍💻 Some of my projects are available at [rahilailegbodu.netlify.com](https://rahilailegbodu.netlify.app)
-
 - 💬 Ask me about **react, typescript, node and flutter**
 
 - 📫 Let's <a href="https://linkedin.com/in/raheela-ilegbodu" target="blank">connect</a>
